@@ -9027,4 +9027,12 @@ a {
   margin-right: auto;
   display: block;
 }
+
+.grow {
+  transition: all .2s ease-in-out;
+}
+
+.grow:hover {
+  transform: scale(1.2);
+}
 /*# sourceMappingURL=bootstrap.css.map */
